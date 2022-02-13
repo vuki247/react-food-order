@@ -1,5 +1,4 @@
 import Card from "../UI/Card";
-import Mealitem from "./MealItem/MealItem";
 import classes from "./AvailableMeals.module.css";
 import MealItem from "./MealItem/MealItem";
 
